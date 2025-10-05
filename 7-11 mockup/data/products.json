@@ -1,0 +1,233 @@
+[
+  {
+    "id": "p1",
+    "name": "ข้าวไก่ย่างถ่าน",
+    "category": "พร้อมทาน",
+    "protein": "ไก่",
+    "base": "ข้าว",
+    "price": 45,
+    "promo": "ลด 10%",
+    "tags": [
+      "ข้าวกล่อง",
+      "ย่าง"
+    ],
+    "image": "assets/images/p1.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p2",
+    "name": "ข้าวหมูทอดกระเทียม",
+    "category": "พร้อมทาน",
+    "protein": "หมู",
+    "base": "ข้าว",
+    "price": 39,
+    "promo": null,
+    "tags": [
+      "ข้าวกล่อง",
+      "ทอด"
+    ],
+    "image": "assets/images/p2.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p3",
+    "name": "ข้าวปลาซาบะย่างซีอิ๊ว",
+    "category": "พร้อมทาน",
+    "protein": "ปลา",
+    "base": "ข้าว",
+    "price": 49,
+    "promo": null,
+    "tags": [
+      "ข้าวกล่อง",
+      "ย่าง"
+    ],
+    "image": "assets/images/p3.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p4",
+    "name": "ข้าวหน้าเนื้อสไตรล์ญี่ปุ่น",
+    "category": "พร้อมทาน",
+    "protein": "วัว",
+    "base": "ข้าว",
+    "price": 55,
+    "promo": "1 แถม 1",
+    "tags": [
+      "วัว",
+      "ข้าวกล่อง"
+    ],
+    "image": "assets/images/p4.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p5",
+    "name": "สปาเก็ตตี้ไก่ไวท์ซอส",
+    "category": "พร้อมทาน",
+    "protein": "ไก่",
+    "base": "เส้น",
+    "price": 52,
+    "promo": null,
+    "tags": [
+      "เส้น",
+      "พาสต้า"
+    ],
+    "image": "assets/images/p5.jpg",
+    "heatable": true,
+    "options": {
+      "addons": [
+        "เพิ่มไข่ต้ม"
+      ]
+    }
+  },
+  {
+    "id": "p6",
+    "name": "มาม่าหมูสับ",
+    "category": "สำเร็จรูป",
+    "protein": "หมู",
+    "base": "เส้น",
+    "price": 18,
+    "promo": null,
+    "tags": [
+      "บะหมี่กึ่งสำเร็จรูป",
+      "เผ็ดน้อย"
+    ],
+    "image": "assets/images/p6.jpg",
+    "heatable": false
+  },
+  {
+    "id": "p7",
+    "name": "โจ๊กไก่คัพ",
+    "category": "สำเร็จรูป",
+    "protein": "ไก่",
+    "base": null,
+    "price": 25,
+    "promo": null,
+    "tags": [
+      "โจ๊ก",
+      "คัพ"
+    ],
+    "image": "assets/images/p7.jpg",
+    "heatable": false
+  },
+  {
+    "id": "p8",
+    "name": "สลัดผัก",
+    "category": "พร้อมทาน",
+    "protein": "ไม่มีเนื้อสัตว์",
+    "base": null,
+    "price": 35,
+    "promo": null,
+    "tags": [
+      "สุขภาพ",
+      "สลัด"
+    ],
+    "image": "assets/images/p8.jpg",
+    "heatable": false
+  },
+  {
+    "id": "p9",
+    "name": "นักเก็ตไก่",
+    "category": "ทานเล่น",
+    "protein": "ไก่",
+    "base": null,
+    "price": 32,
+    "promo": null,
+    "tags": [
+      "ของทอด",
+      "ทานเล่น"
+    ],
+    "image": "assets/images/p9.jpg",
+    "heatable": true,
+    "options": {
+      "sauces": [
+        "ซอสมะเขือเทศ",
+        "ซอสพริก",
+        "มายองเนส"
+      ]
+    }
+  },
+  {
+    "id": "p10",
+    "name": "ปลาซาบะนอร์เวย์ย่างซอลเทริยากิ",
+    "category": "ทานเล่น",
+    "protein": "ปลา",
+    "base": null,
+    "price": 42,
+    "promo": "ลด 15%",
+    "tags": [
+      "ของยา่ง",
+      "ทานเล่น"
+    ],
+    "image": "assets/images/p10.jpg",
+    "heatable": true,
+    "options": {
+      "sauces": [
+        "ทาร์ทาร์",
+        "มายองเนส",
+        "ซอสมะนาว"
+      ]
+    }
+  },
+  {
+    "id": "p11",
+    "name": "ข้าวกะเพราเจ",
+    "category": "พร้อมทาน",
+    "protein": "ไม่มีเนื้อสัตว์",
+    "base": "ข้าว",
+    "price": 40,
+    "promo": null,
+    "tags": [
+      "มังสวิรัติ",
+      "เผ็ด"
+    ],
+    "image": "assets/images/p11.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p12",
+    "name": "บะหมี่เกี๊ยวกุ้ง",
+    "category": "พร้อมทาน",
+    "protein": "หมู",
+    "base": "เส้น",
+    "price": 47,
+    "promo": null,
+    "tags": [
+      "ทานเล่น"
+      
+    ],
+    "image": "assets/images/p12.jpg",
+    "heatable": true
+  },
+  {
+    "id": "p13",
+    "name": "นมพาสเจอร์ไรส์รสจืด",
+    "category": "พร้อมทาน",
+    "protein": "ไม่มีเนื้อสัตว์",
+    "base": null,
+    "price": 25,
+    "promo": null,
+    "tags": [
+      "เครื่องดื่ม",
+      "นมดื่ม",
+      "นม"
+    ],
+    "image": "assets/images/p13.jpg",
+    "heatable": false
+  },
+  {
+    "id": "p14",
+    "name": "นมจืดไขมันต่ำ",
+    "category": "พร้อมทาน",
+    "protein": "ไม่มีเนื้อสัตว์",
+    "base": null,
+    "price": 13,
+    "promo": null,
+    "tags": [
+      "เครื่องดื่ม",
+      "นมดื่ม",
+      "นม"
+    ],
+    "image": "assets/images//p14.jpg",
+    "heatable": false
+  }
+]
